@@ -1,0 +1,15 @@
+/Users/michaelrobards/Projects/Tuts/bin/Debug/net5.0/Projects.deps.json
+/Users/michaelrobards/Projects/Tuts/bin/Debug/net5.0/Projects.runtimeconfig.json
+/Users/michaelrobards/Projects/Tuts/bin/Debug/net5.0/Projects.runtimeconfig.dev.json
+/Users/michaelrobards/Projects/Tuts/bin/Debug/net5.0/Projects.dll
+/Users/michaelrobards/Projects/Tuts/bin/Debug/net5.0/ref/Projects.dll
+/Users/michaelrobards/Projects/Tuts/bin/Debug/net5.0/Projects.pdb
+/Users/michaelrobards/Projects/Tuts/obj/Debug/net5.0/Projects.csproj.AssemblyReference.cache
+/Users/michaelrobards/Projects/Tuts/obj/Debug/net5.0/Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelrobards/Projects/Tuts/obj/Debug/net5.0/Projects.AssemblyInfoInputs.cache
+/Users/michaelrobards/Projects/Tuts/obj/Debug/net5.0/Projects.AssemblyInfo.cs
+/Users/michaelrobards/Projects/Tuts/obj/Debug/net5.0/Projects.csproj.CoreCompileInputs.cache
+/Users/michaelrobards/Projects/Tuts/obj/Debug/net5.0/Projects.dll
+/Users/michaelrobards/Projects/Tuts/obj/Debug/net5.0/ref/Projects.dll
+/Users/michaelrobards/Projects/Tuts/obj/Debug/net5.0/Projects.pdb
+/Users/michaelrobards/Projects/Tuts/obj/Debug/net5.0/Projects.genruntimeconfig.cache
