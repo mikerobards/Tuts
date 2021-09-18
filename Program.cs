@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-// WorkWithString();
+WorkWithString();
 
 var fibonacciNumbers = new List<int> { 1, 1 };
 
